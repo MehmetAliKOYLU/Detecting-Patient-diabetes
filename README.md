@@ -24,7 +24,7 @@ after that, I used this code for all unnecessary warnings
 ```
    ![image](https://github.com/MehmetAliKOYLU/Detecting-Patient-diabetes/assets/91757385/22c0f030-2975-42ff-81dd-49765a4e6e59)
 
-#### Let's make an example drawing just by looking at glourose for now At the end of our program, our machine learning model will make a prediction by looking not only at glucose, but also at all other data.
+#### Let's make an example drawing just by looking at glucose for now At the end of our program, our machine learning model will make a prediction by looking not only at glucose, but also at all other data.
 
 ```
 diabetes = data[data.Outcome == 1]
